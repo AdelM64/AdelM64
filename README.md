@@ -3,13 +3,15 @@
 Thank you for checking out my page!
 
 Here's a high-level overview of who I am:
-- 🎓 I'm a recent graduate of UCL's 4-year Computer Science MEng programme
+- 🎓 I'm a recent graduate of UCL's MEng Computer Science programme
 - 🔍 I'm actively applying for software engineering roles
 - 🔨 I'm currently working on a full-stack web application project
 - 📚 I'm independently learning more about AI and finance
 - ☕ I'm a certified coffee enthusiast
 
-## Languages and Technologies
+## 🧰 Languages and Technologies
+
+
 
 ## 📠 Contact Information
 
