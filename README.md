@@ -35,9 +35,70 @@ The following are some of the languages and technologies I've used:
     <img src="https://github.com/AdelM64/AdelM64/assets/92412158/58495166-50a7-49c1-95fd-0367f77327aa" alt="CSS" width="50" height="50"/>
   </a>
 </div>
-
-
-
+<div align="center">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/4e15422b-5ce5-4d85-84cb-459b560774b0" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/8a48259a-420c-403f-9906-e64c5641cba9" alt="Django" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/1fa930a3-96c7-44f9-b43c-2402e8f8812c" alt="Tailwind CSS" width="50" height="50"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/72a74831-1c68-4b95-9751-5ed7f5ffbb0a" alt="PyTorch" width="50" height="50"/>
+  </a>
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/3d57035d-72ff-406a-a6e8-4e877dcf8b0e" alt="Scikit-Learn" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/f177836f-6e76-45ba-9553-cde20740ec7b" alt="Pandas" width="50" height="50"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/22155a92-c7fc-4744-b312-b3605dfc3eb1" alt="NumPy" width="50" height="50"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/b18612cd-7f81-4e21-8b64-7bbb700cfa01" alt="Jupyter" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/7b3d8d8b-8770-4882-997e-282fbcdf6953" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/8e12686e-3e17-46f6-8b75-199619c00eb0" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/04784307-ee45-4ee3-bcd7-1938b5bf2b08" alt="LaTeX" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/b13bf5e9-3076-4728-9ae5-ad608f0a1530" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/c2389d32-6032-4d0b-924c-d7ed82d7d311" alt="PyTest" width="50" height="50"/>
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/53974d11-aedc-4bec-959b-037656cd8ec8" alt="Jest" width="50" height="50"/>
+  </a>
+  <a href="https://junit.org/junit4/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/4ac3540b-a061-47b8-a8c4-ab1041174fe8" alt="JUnit4" width="50" height="50"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/3ebadec3-d5b9-4e50-b92a-34e0eb73250d" alt="AWS" width="50" height="50"/>
+  </a>
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/0c169512-0fbf-4be1-b174-6813126a999c" alt="Google Cloud" width="50" height="50"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/05f2e744-31fd-4052-a5b1-4aa9b7eef0cd" alt="Azure" width="50" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/c0f701d1-c385-43eb-8bb7-41ccbb2eab68" alt="VSCode" width="50" height="50"/>
+  </a>
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/f41c1037-3489-48d6-86fe-01f3489665e6" alt="Linux" width="50" height="50"/>
+  </a>
+</div>
 
 ## 📠 Contact Information
 
@@ -96,8 +157,8 @@ JUnit: ![junit_logo](https://github.com/AdelM64/AdelM64/assets/92412158/4ac3540b
 TOOLS/SERVICES
 --------------------
 AWS: ![amazon-web-services-aws-logo](https://github.com/AdelM64/AdelM64/assets/92412158/3ebadec3-d5b9-4e50-b92a-34e0eb73250d)
-Azure: ![Microsoft_Azure svg](https://github.com/AdelM64/AdelM64/assets/92412158/05f2e744-31fd-4052-a5b1-4aa9b7eef0cd)
 Google Cloud: ![google-cloud-icon](https://github.com/AdelM64/AdelM64/assets/92412158/0c169512-0fbf-4be1-b174-6813126a999c)
+Azure: ![Microsoft_Azure svg](https://github.com/AdelM64/AdelM64/assets/92412158/05f2e744-31fd-4052-a5b1-4aa9b7eef0cd)
 VSCode: ![Visual_Studio_Code_1 35_icon svg](https://github.com/AdelM64/AdelM64/assets/92412158/c0f701d1-c385-43eb-8bb7-41ccbb2eab68)
 Linux: ![Tux svg](https://github.com/AdelM64/AdelM64/assets/92412158/f41c1037-3489-48d6-86fe-01f3489665e6)
 
