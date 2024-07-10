@@ -52,7 +52,7 @@ The following are some of the languages and technologies I've used:
     <img src="https://github.com/AdelM64/AdelM64/assets/92412158/3d57035d-72ff-406a-a6e8-4e877dcf8b0e" alt="Scikit-Learn" width="50" height="50"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/f177836f-6e76-45ba-9553-cde20740ec7b" alt="Pandas" width="50" height="50"/>
+    <img src="https://github.com/AdelM64/AdelM64/assets/92412158/b9167fa2-4dba-442d-b233-04a2fc1fb751" alt="Pandas" width="50" height="50"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/AdelM64/AdelM64/assets/92412158/22155a92-c7fc-4744-b312-b3605dfc3eb1" alt="NumPy" width="50" height="50"/>
@@ -142,7 +142,16 @@ Django: ![django-logo-4C5ECF7036-seeklogo com](https://github.com/AdelM64/AdelM6
 Tailwind CSS: ![Tailwind_CSS_Logo svg](https://github.com/AdelM64/AdelM64/assets/92412158/1fa930a3-96c7-44f9-b43c-2402e8f8812c)
 PyTorch: <img width="331" alt="PyTorch-logo-WS" src="https://github.com/AdelM64/AdelM64/assets/92412158/72a74831-1c68-4b95-9751-5ed7f5ffbb0a">
 Scikit-Learn: ![scikit-learn-logo](https://github.com/AdelM64/AdelM64/assets/92412158/3d57035d-72ff-406a-a6e8-4e877dcf8b0e)
-Pandas: ![pandas_logo](https://github.com/AdelM64/AdelM64/assets/92412158/f177836f-6e76-45ba-9553-cde20740ec7b)
+Pandas: ![pandas-icon](https://github.com/AdelM64/AdelM64/assets/92412158/b9167fa2-4dba-442d-b233-04a2fc1fb751)
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="408px" viewBox="0 0 256 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>pandas</title>
+    <g>
+        <path d="M71.4775204,24.0721657 L115.982392,24.0721657 L115.982392,116.481201 L71.4775204,116.481201 L71.4775204,24.0721657 Z M71.4775204,213.896803 L115.982392,213.896803 L115.982392,306.305838 L71.4775204,306.305838 L71.4775204,213.896803 Z M0,100.057444 L44.5048712,100.057444 L44.5048712,407.23158 L0,407.23158 L0,100.057444 Z M141.495562,290.140723 L186.000433,290.140723 L186.000433,382.549758 L141.495562,382.549758 L141.495562,290.140723 Z M141.495562,100.16829 L186.000433,100.16829 L186.000433,192.577326 L141.495562,192.577326 L141.495562,100.16829 Z M211.495129,0 L256,0 L256,307.174136 L211.495129,307.174136 L211.495129,0 Z" fill="#130754"></path>
+        <rect fill="#FFCA00" x="71.4775204" y="143.45385" width="44.5048712" height="43.5996247"></rect>
+        <rect fill="#E70488" x="141.495562" y="219.549975" width="44.5048712" height="43.5996247"></rect>
+    </g>
+</svg>
 Numpy: ![numpy-1](https://github.com/AdelM64/AdelM64/assets/92412158/22155a92-c7fc-4744-b312-b3605dfc3eb1)
 <svg height="2500" preserveAspectRatio="xMidYMid" width="2336" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 273.612"><path d="M191.548 186.292l.06 60.52-53.705 26.8v-60.494zM256 153.947v60.731l-45.805 22.86-.033-60.454zm-64.533-48.66l.06 59.885-53.625 26.647v-59.905zm64.533-32.082v59.509l-45.851 23.309-.04-60.005zm-126.262-7.04l47.933 24.195-49.731 24.975-47.028-23.62zM63.065 32.511l45.718 23.077-48.938 25.543-46.954-23.58zm130.69.35l49.243 24.69-44.04 22.12-48.032-24.228zM128.233 0l44.33 22.225-42.506 22.694L84.377 21.88z" fill="#4dabcf"/><path d="M118.944 131.914L82.77 113.728v78.606S38.533 98.207 34.434 89.752c-.528-1.091-2.703-2.288-3.259-2.578C23.243 83.009 0 71.235 0 71.235V210.11l32.154 17.188v-72.59s43.768 84.105 44.211 85.024c.443.92 4.84 9.784 9.533 12.897 6.253 4.139 33.053 20.255 33.053 20.255z" fill="#4d77cf"/></svg>
 Jupyter: ![883px-Jupyter_logo svg](https://github.com/AdelM64/AdelM64/assets/92412158/b18612cd-7f81-4e21-8b64-7bbb700cfa01)
